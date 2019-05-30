@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="special_weather" />
+    <version value="1" />
+    <list>
+        <mapping class="com.example.eric.specialweather.db.Province" />
+        <mapping class="com.example.eric.specialweather.db.City" />
+        <mapping class="com.example.eric.specialweather.db.County" />
+    </list>
+</litepal>
